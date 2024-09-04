@@ -187,88 +187,88 @@ Matkul : Sistem Operasi
 34. Perintah man ls :\
     Menampilkan halaman manual khusus untuk perintah ls. Halaman ini berisi informasi rinci tentang opsi dan penggunaan perintah ls, yang digunakan untuk menampilkan daftar file dan direktori.\
     Syntax : man ls 
-   <img width="250" alt="man dan man ls" src="https://github.com/user-attachments/assets/f801057c-51c4-4906-8bd5-79a8fe12b177">
+      <img width="250" alt="man dan man ls" src="https://github.com/user-attachments/assets/f801057c-51c4-4906-8bd5-79a8fe12b177">
    
        Berikut adalah man ls :
     
-   <img width="250" alt="man ls(output)" src="https://github.com/user-attachments/assets/0e0b22bb-222d-4699-83f8-a00a205ec0ac">
+      <img width="250" alt="man ls(output)" src="https://github.com/user-attachments/assets/0e0b22bb-222d-4699-83f8-a00a205ec0ac">
 
 36. Perintah lscpu :\
     Untuk menampilkan informasi detail tentang CPU (Central Processing Unit) sistem. Ini berguna untuk memeriksa spesifikasi dan konfigurasi prosesor, termasuk jumlah inti (cores), thread, dan arsitektur CPU.\
     Syntax : lscpu
     
-   <img width="250" alt="lscpu" src="https://github.com/user-attachments/assets/b82d9814-e843-4500-a829-22fe3ebe5809">
+      <img width="250" alt="lscpu" src="https://github.com/user-attachments/assets/b82d9814-e843-4500-a829-22fe3ebe5809">
 
 38. Perintah ls -1 :\
     ls -1 adalah variasi dari perintah ls yang menampilkan daftar file dan direktori dalam format satu kolom per baris.\
     Syntax : ls -1\
-   <img width="250" alt="ls -1" src="https://github.com/user-attachments/assets/4ff75d6e-f768-4bc0-aca9-540ff6af62fa">
+      <img width="250" alt="ls -1" src="https://github.com/user-attachments/assets/4ff75d6e-f768-4bc0-aca9-540ff6af62fa">
 
 39. Perintah locale :\
      Digunakan untuk menampilkan informasi tentang pengaturan lokal sistem, seperti bahasa, format tanggal, dan format angka. Ini berguna untuk melihat konfigurasi lokal yang saat ini aktif. \
     Syntax : locale\
-   <img width="250" alt="locale" src="https://github.com/user-attachments/assets/3ce24c6b-e184-4e0a-ae1e-8bde28844b03">
+      <img width="250" alt="locale" src="https://github.com/user-attachments/assets/3ce24c6b-e184-4e0a-ae1e-8bde28844b03">
 
 40. Perintah last :\
     Digunakan untuk menampilkan daftar login pengguna terakhir dan waktu logout. Ini berguna untuk melihat riwayat login sistem.\
     Syntax : last\
-   <img width="250" alt="last" src="https://github.com/user-attachments/assets/6355e98c-ce2f-4edf-8358-2069a7491379">
+      <img width="250" alt="last" src="https://github.com/user-attachments/assets/6355e98c-ce2f-4edf-8358-2069a7491379">
 
 41. Perintah kill
     Kill adalah perintah yang digunakan untuk mengirim sinyal ke proses, biasanya untuk menghentikan atau mengakhiri proses tersebut.\
     Syntax : kill\
-   <img width="250" alt="kill dan kill pid" src ="https://github.com/user-attachments/assets/ae839241-25e8-4af0-a537-10f0a4db4f6b">
+    <img width="250" alt="kill dan kill pid" src ="https://github.com/user-attachments/assets/ae839241-25e8-4af0-a537-10f0a4db4f6b">
 
 42. Perintah id :\
     Digunakan untuk menampilkan informasi tentang pengguna saat ini, termasuk UID (User ID), GID (Group ID), dan grup-grup yang menjadi bagian dari pengguna tersebut. \
     Syntax : id\
-   <img width="250" alt="id" src="https://github.com/user-attachments/assets/02c052b2-a504-44a7-8f4f-bcf46feefdea">
+      <img width="250" alt="id" src="https://github.com/user-attachments/assets/02c052b2-a504-44a7-8f4f-bcf46feefdea">
 
 43. Perintah hostnamectl :\
     Digunakan untuk menampilkan dan mengatur informasi hostname dan konfigurasi sistem lainnya. Ini berguna untuk melihat dan mengubah nama host sistem.\
     Syntax : hostnamectl\
-   <img width="250" alt="hostnamectl' src="https://github.com/user-attachments/assets/f8e0403b-ca2a-471d-9084-20c627a724b3">
+      <img width="250" alt="hostnamectl' src="https://github.com/user-attachments/assets/f8e0403b-ca2a-471d-9084-20c627a724b3">
 
 44. Perintah hostname -I :\
     Digunakan untuk menampilkan alamat IP sistem. Ini berguna untuk mengetahui alamat IP lokal dari mesin yang sedang digunakan.\
     Syntax : hostname -I\
-   <img width="250" alt="hostname -I" src="https://github.com/user-attachments/assets/4a5442a5-1276-4e07-b30f-659f90a39909">
+      <img width="250" alt="hostname -I" src="https://github.com/user-attachments/assets/4a5442a5-1276-4e07-b30f-659f90a39909">
 
 45. Perintah fg :\
     Untuk membawa proses latar belakang (background) ke latar depan (foreground). Ini berguna untuk melanjutkan proses yang sedang dijalankan di background dan mengembalikannya ke kontrol terminal.\
     Syntax : fg\
-   <img width="250" alt="fg" src="https://github.com/user-attachments/assets/e1447218-9cd6-450a-a9a8-c2fcb3eaec17">
+      <img width="250" alt="fg" src="https://github.com/user-attachments/assets/e1447218-9cd6-450a-a9a8-c2fcb3eaec17">
 
 46. Perintah echo :\
     Untuk menampilkan teks atau variabel di terminal. Ini berguna untuk mencetak pesan atau nilai variabel ke output standar.\
     Syntax : echho [text]\
-   <img width="250" alt="echo" src="https://github.com/user-attachments/assets/f7cdc5ea-d4b7-464e-945a-8041a8dd08ae">
+      <img width="250" alt="echo" src="https://github.com/user-attachments/assets/f7cdc5ea-d4b7-464e-945a-8041a8dd08ae">
 
 47. Perintah dir :\
     Untuk menampilkan daftar file dan direktori dalam direktori saat ini. Ini mirip dengan perintah ls dalam Unix/Linux tetapi dengan sintaks yang sedikit berbeda.\
     Syntax : dir\
-   <img width="250" alt="dir" src="https://github.com/user-attachments/assets/6ee6c17b-c9b2-4760-905d-99863caf583b">
+      <img width="250" alt="dir" src="https://github.com/user-attachments/assets/6ee6c17b-c9b2-4760-905d-99863caf583b">
 
 48. Perintah dig :\
     Untuk melakukan query DNS (Domain Name System) dan mendapatkan informasi tentang nama domain, alamat IP, dan catatan DNS lainnya. Ini berguna untuk mendiagnosis masalah DNS dan memeriksa konfigurasi DNS.\
     Syntax : dig\
-   <img width="250" alt="dig" src="https://github.com/user-attachments/assets/3b30ce2f-073c-42b5-8c1a-f6c50d43660c">
+      <img width="250" alt="dig" src="https://github.com/user-attachments/assets/3b30ce2f-073c-42b5-8c1a-f6c50d43660c">
 
 49. Perintah df -T:\
     Menampilkan informasi tentang penggunaan ruang disk pada semua sistem file yang terpasang. \
     Syntax : df -T\
-   <img width="250" alt="df -T" src="https://github.com/user-attachments/assets/57a8d39b-1634-4ff8-8f55-743e17c5ef35">
+      <img width="250" alt="df -T" src="https://github.com/user-attachments/assets/57a8d39b-1634-4ff8-8f55-743e17c5ef35">
 
 50. Perintah !! :\
     Untuk menjalankan kembali perintah terakhir yang dieksekusi. \
     Syntax : !!\
-   <img width="250" alt="!!" src="https://github.com/user-attachments/assets/d65ca13c-1f68-4a72-a830-7c69e3d38aee">
+      <img width="250" alt="!!" src="https://github.com/user-attachments/assets/d65ca13c-1f68-4a72-a830-7c69e3d38aee">
 
    51. Perintah wget :\
-       <img width="250" alt="wget" src="https://github.com/user-attachments/assets/e684e0ec-d9bb-4635-a7ac-b47b4538c8c3">
+          <img width="250" alt="wget" src="https://github.com/user-attachments/assets/e684e0ec-d9bb-4635-a7ac-b47b4538c8c3">
 
        50. Perintah grep :\
-<img width="250" alt="grep" src="https://github.com/user-attachments/assets/da76ca48-11c6-4062-a68d-448a6a6434e3">
+   <img width="250" alt="grep" src="https://github.com/user-attachments/assets/da76ca48-11c6-4062-a68d-448a6a6434e3">
 
        
 
