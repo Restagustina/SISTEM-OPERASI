@@ -1,5 +1,5 @@
-### Buatlah 50 Command Line
-# *Dosen Pengampu :*
+# Buatlah 50 Command Line
+## *Dosen Pengampu :*
 Ahmad Heryanto, M. T.\
 Adi Hermansyah, M. T.\
 Dr. Ahmad Zarkarsi, M. T.\
