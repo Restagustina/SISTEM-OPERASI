@@ -1,28 +1,15 @@
-<div align="center">
-
 ## Membuat 50 Command Line
-*Dosen Pengampu :*\
+# *Dosen Pengampu :*
 Ahmad Heryanto, M. T.\
 Adi Hermansyah, M. T.\
 Dr. Ahmad Zarkarsi, M. T.\
 Iman Saladin B. Azhar, S. Kom., M. M.SI.\
 Sutarno, M.T.
 
-
-
-
-*Disusun Oleh:*\
 Nama: Resta Gustina\
 NIM : 09011282328110\
 Kelas : SK3B
-
-*JURUSAN SISTEM KOMPUTER*  
-*FAKULTAS ILMU KOMPUTER*  
-*UNIVERSITAS SRIWIJAYA*  
-*2024*
-<br>
-<br>
-</div>
+Matkul : Sistem Operasi
 
 <div align="justify">
    
