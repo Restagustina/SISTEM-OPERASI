@@ -1,4 +1,4 @@
-## Membuat 50 Command Line
+### Buatlah 50 Command Line
 # *Dosen Pengampu :*
 Ahmad Heryanto, M. T.\
 Adi Hermansyah, M. T.\
@@ -148,23 +148,23 @@ Matkul : Sistem Operasi
 26. Perintah tar --usage :\
     Menampilkan informasi singkat tentang penggunaan perintah tar, termasuk daftar opsi dan sintaks yang tersedia.\
     Syntax : tar --usage\
-    <img width="250" alt="tar --usage" src="https://github.com/user-attachments/assets/704733f5-0eb2-4b0a-a3a9-1b092e0631f4">
+    <img width="400" alt="tar --usage" src="https://github.com/user-attachments/assets/704733f5-0eb2-4b0a-a3a9-1b092e0631f4">
 
 27. Perintah sudo :\
         Untuk menjalankan perintah dengan hak akses administratif atau sebagai pengguna lain. Ini berguna untuk melakukan tugas yang memerlukan izin lebih tinggi, seperti menginstal perangkat lunak atau mengedit file sistem.\
         Syntax : sudo
     
-      <img width="250" alt="sudo" src="https://github.com/user-attachments/assets/a7aef909-c7ec-4162-9e2e-928369e2002c">
+      <img width="400" alt="sudo" src="https://github.com/user-attachments/assets/a7aef909-c7ec-4162-9e2e-928369e2002c">
 
 28. Perintah clear :\
        Untuk membersihkan layar terminal, menghapus semua teks yang ditampilkan.\
        Syntax : clear\
-       <img width="250" alt="clear" src="https://github.com/user-attachments/assets/340cfa86-7b7f-4a2c-88d8-73c91d20ede0">
+       <img width="400" alt="clear" src="https://github.com/user-attachments/assets/340cfa86-7b7f-4a2c-88d8-73c91d20ede0">
 
 29. Perintah set :\
            Untuk mengatur atau menampilkan variabel lingkungan dan parameter shell. Ini berguna untuk mengkonfigurasi lingkungan shell atau melihat variabel yang telah disetel.\
            Syntax : set\
-      <img width="250" alt="set" src="https://github.com/user-attachments/assets/e6868ddb-fbb0-4489-922e-93c10c75ac9a">
+      <img width="400" alt="set" src="https://github.com/user-attachments/assets/e6868ddb-fbb0-4489-922e-93c10c75ac9a">
 
 30. Perintah ps :\
     Untuk menampilkan daftar proses yang sedang berjalan di sistem. Ini berguna untuk memantau dan mengelola proses. \
@@ -178,7 +178,7 @@ Matkul : Sistem Operasi
 
 32. Perintah mkdir resta :\
     Mkdir digunakan untuk membuat direktori baru.\
-      <img width="250" alt="mkdir resta" src="https://github.com/user-attachments/assets/6a81ab04-1c0a-41f1-b1e5-fd5d781eeba4">
+      <img width="400" alt="mkdir resta" src="https://github.com/user-attachments/assets/6a81ab04-1c0a-41f1-b1e5-fd5d781eeba4">
 
   33. Perintah man : \
        Digunakan untuk menampilkan halaman manual (manual page) dari perintah atau program tertentu. Halaman manual memberikan dokumentasi dan informasi tentang penggunaan perintah.\
@@ -192,13 +192,13 @@ Matkul : Sistem Operasi
    
        Berikut adalah man ls :
     
-      <img width="250" alt="man ls(output)" src="https://github.com/user-attachments/assets/0e0b22bb-222d-4699-83f8-a00a205ec0ac">
+      <img width="400" alt="man ls(output)" src="https://github.com/user-attachments/assets/0e0b22bb-222d-4699-83f8-a00a205ec0ac">
 
 35. Perintah lscpu :\
     Untuk menampilkan informasi detail tentang CPU (Central Processing Unit) sistem. Ini berguna untuk memeriksa spesifikasi dan konfigurasi prosesor, termasuk jumlah inti (cores), thread, dan arsitektur CPU.\
     Syntax : lscpu
     
-      <img width="250" alt="lscpu" src="https://github.com/user-attachments/assets/b82d9814-e843-4500-a829-22fe3ebe5809">
+      <img width="400" alt="lscpu" src="https://github.com/user-attachments/assets/b82d9814-e843-4500-a829-22fe3ebe5809">
 
 36. Perintah ls -1 :\
     ls -1 adalah variasi dari perintah ls yang menampilkan daftar file dan direktori dalam format satu kolom per baris.\
@@ -213,22 +213,22 @@ Matkul : Sistem Operasi
 38. Perintah last :\
     Digunakan untuk menampilkan daftar login pengguna terakhir dan waktu logout. Ini berguna untuk melihat riwayat login sistem.\
     Syntax : last\
-      <img width="250" alt="last" src="https://github.com/user-attachments/assets/6355e98c-ce2f-4edf-8358-2069a7491379">
+      <img width="400" alt="last" src="https://github.com/user-attachments/assets/6355e98c-ce2f-4edf-8358-2069a7491379">
 
 39. Perintah kill
     Kill adalah perintah yang digunakan untuk mengirim sinyal ke proses, biasanya untuk menghentikan atau mengakhiri proses tersebut.\
     Syntax : kill\
-    <img width="250" alt="kill dan kill pid" src ="https://github.com/user-attachments/assets/ae839241-25e8-4af0-a537-10f0a4db4f6b">
+    <img width="400" alt="kill dan kill pid" src ="https://github.com/user-attachments/assets/ae839241-25e8-4af0-a537-10f0a4db4f6b">
 
 40. Perintah id :\
     Digunakan untuk menampilkan informasi tentang pengguna saat ini, termasuk UID (User ID), GID (Group ID), dan grup-grup yang menjadi bagian dari pengguna tersebut. \
     Syntax : id\
-      <img width="250" alt="id" src="https://github.com/user-attachments/assets/02c052b2-a504-44a7-8f4f-bcf46feefdea">
+      <img width="400" alt="id" src="https://github.com/user-attachments/assets/02c052b2-a504-44a7-8f4f-bcf46feefdea">
 
 41. Perintah hostnamectl :\
     Digunakan untuk menampilkan dan mengatur informasi hostname dan konfigurasi sistem lainnya. Ini berguna untuk melihat dan mengubah nama host sistem.\
     Syntax : hostnamectl\
-      <img width="250" alt="hostnamectl" src="https://github.com/user-attachments/assets/f8e0403b-ca2a-471d-9084-20c627a724b3">
+      <img width="400" alt="hostnamectl" src="https://github.com/user-attachments/assets/f8e0403b-ca2a-471d-9084-20c627a724b3">
 
 42. Perintah hostname -I :\
     Digunakan untuk menampilkan alamat IP sistem. Ini berguna untuk mengetahui alamat IP lokal dari mesin yang sedang digunakan.\
@@ -275,7 +275,7 @@ Matkul : Sistem Operasi
     Untuk mencari pola teks dalam file atau output dari perintah lain.\
     Syntax : grep
     
-   <img width="250" alt="grep" src="https://github.com/user-attachments/assets/da76ca48-11c6-4062-a68d-448a6a6434e3">
+      <img width="250" alt="grep" src="https://github.com/user-attachments/assets/da76ca48-11c6-4062-a68d-448a6a6434e3">
 
        
 
