@@ -150,23 +150,24 @@ Matkul : Sistem Operasi
     Syntax : tar --usage\
     <img width="250" alt="tar --usage" src="https://github.com/user-attachments/assets/704733f5-0eb2-4b0a-a3a9-1b092e0631f4">
 
-    27. Perintah sudo :\
+27. Perintah sudo :\
         Untuk menjalankan perintah dengan hak akses administratif atau sebagai pengguna lain. Ini berguna untuk melakukan tugas yang memerlukan izin lebih tinggi, seperti menginstal perangkat lunak atau mengedit file sistem.\
-        Syntax : sudo \
+        Syntax : sudo
+    
       <img width="250" alt="sudo" src="https://github.com/user-attachments/assets/a7aef909-c7ec-4162-9e2e-928369e2002c">
 
-   28. Perintah clear :\
+28. Perintah clear :\
        Untuk membersihkan layar terminal, menghapus semua teks yang ditampilkan.\
        Syntax : clear\
-       <img width="250" alt="clear" src="https://github.com/user-  attachments/assets/340cfa86-7b7f-4a2c-88d8-73c91d20ede0">
+       <img width="250" alt="clear" src="https://github.com/user-attachments/assets/340cfa86-7b7f-4a2c-88d8-73c91d20ede0">
 
-       29. Perintah set :\
+29. Perintah set :\
            Untuk mengatur atau menampilkan variabel lingkungan dan parameter shell. Ini berguna untuk mengkonfigurasi lingkungan shell atau melihat variabel yang telah disetel.\
            Syntax : set\
       <img width="250" alt="set" src="https://github.com/user-attachments/assets/e6868ddb-fbb0-4489-922e-93c10c75ac9a">
 
-      30. Perintah ps :\
-      Untuk menampilkan daftar proses yang sedang berjalan di sistem. Ini berguna untuk memantau dan mengelola proses. \
+30. Perintah ps :\
+    Untuk menampilkan daftar proses yang sedang berjalan di sistem. Ini berguna untuk memantau dan mengelola proses. \
       Syntax : ps\
       <img width="250" alt="ps" src="https://github.com/user-attachments/assets/53524bed-6cbb-4264-ae6c-59c49d50783e">
 
